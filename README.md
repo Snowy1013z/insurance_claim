@@ -43,8 +43,10 @@
 ---
 
 ## 📁 Deliverables
-- 📄 *Insurance Loss Analytics Report.pdf*
-- 📄 *Insurance Modeling Code Workbook.ipynb*
+- 📄 *Insurance Loss Analytics.pdf* This PPT file is our initial submission, prior to receiving final feedback and making revisions.
+- 📄 *Final_Report.pdf*
+- 📄 *Master_file_(Final)_v3_(without_SMOTE).ipynb*
+
 
 ---
 
